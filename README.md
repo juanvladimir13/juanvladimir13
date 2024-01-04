@@ -2,7 +2,7 @@
    <img align="center" width="150" src="https://juanvladimir13.web.app/img/juanvladimir13.jpg" />
    <h3 align="center">¡Hey 👋! I am Juan Vladimir 👨🏻‍💻</h3>
 </p>
-
+<p align="center" style="margin: 0px;">💻 Freelance fullstack ♥️ PHP & TS 👾 Geek & Hacker</p>
 <p align="center">I am a <strong>FullStack Developer</strong> with 13 years of experience.</p>
 
 ## About me
