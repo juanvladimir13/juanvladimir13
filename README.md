@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-   I am <strong>Web Developer Full Stack</strong><br>
+   I am <strong>Web developer full-stack</strong><br>
    💻 Freelance ♥️ PHP & TS 🤓 Geek & Hacker<br>
    😎 Passionate about <strong>teaching programming</strong>
 </p>
@@ -12,10 +12,10 @@
 
 - 🎓 **Software engineer**
 - ♥️ **I programmed happily** with PHP, TypeScript, Java, Python, Rust, Go, Angular, React, Next.js and Astro
-- 👨🏻‍💻 **Web developer Full Stack**
+- 👨🏻‍💻 **Web developer full-stack**
 - 🐧 **Linux user**
-- 👨🏻‍🏫 **Associate Professor** at UAGRM
-- 🎬 **EduTuber** about Web Programming ([channel](https://youtube.com/juanvladimir13))
+- 👨🏻‍🏫 **Associate professor** at UAGRM
+- 🎬 **EduTuber** about web programming ([channel](https://youtube.com/juanvladimir13))
 - 🎸 **I love singing and playing guitar**
 - 🧳 **I love to travel**
 
