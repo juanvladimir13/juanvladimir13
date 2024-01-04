@@ -3,7 +3,7 @@
    <h3 align="center">¡Hey 👋! I am Juan Vladimir 👨🏻‍💻</h3>
 </p>
 
-<p align="center">💻 Freelance fullstack ♥️ PHP & TS 👾 Geek & Hacker <br>
+<p align="center">💻 Freelance full stack ♥️ PHP & TS 👾 Geek & Hacker <br>
 I am a <strong>FullStack Developer</strong> with 13 years of experience.</p>
 
 ## About me
