@@ -11,7 +11,7 @@
 ## About me
 
 - 🎓 **Software engineer**
-- ♥️ I programmed happily with PHP, Java, Python, Rust, Go, TypeScript, Angular, React, Next.js and Astro
+- ♥️ **I programmed happily** with PHP, TypeScript, Java, Python, Rust, Go, Angular, React, Next.js and Astro
 - 👨🏻‍💻 **Web developer Full Stack**
 - 🐧 **Linux user**
 - 👨🏻‍🏫 **Associate Professor** at UAGRM
