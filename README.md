@@ -2,8 +2,8 @@
    <h3 align="center">¡Hey 👋! I am Juan Vladimir 👨🏻‍💻</h3>
 </p>
 
-<p align="center">💻 Freelance full stack ♥️ PHP & TS 👾 Geek & Hacker <br>
-I am a <strong>FullStack Developer</strong> with 13 years of experience.</p>
+<p align="center">💻 Freelance ♥️ PHP & TS 👾 Geek & Hacker <br>
+I am a <strong>Full Stack Developer</strong> with 13 years of experience.</p>
 
 ## About me
 
@@ -22,4 +22,4 @@ I am a <strong>FullStack Developer</strong> with 13 years of experience.</p>
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
-Y alguna más...
+and some more...
