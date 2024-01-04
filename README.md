@@ -11,7 +11,7 @@
 ## About me
 
 - 🎓 **Software engineer**
-- 👨🏻‍💻 **Web developer** with PHP, TypeScript, Angular, Next.js, Java, Python, Rust and Go
+- 👨🏻‍💻 **Web developer** with PHP, Java, Python, Rust, Go, TypeScript, Angular, React, Next.js and Astro
 - 🐧 **Linux user**
 - 👨🏻‍🏫 **Associate Professor** at *UAGRM*.
 - 🎬 [**EduTuber** about Web Programming](https://youtube.com/juanvladimir13?sub_confirmation=1)
@@ -20,15 +20,23 @@
 
 ## Technologies
 
-[![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white&labelColor=8892BF)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8892BF)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+![PHP](https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2b5b84?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-ffc832?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/go-5dc9e2?style=for-the-badge&logo=go&logoColor=white)
 </br>
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791)]()
-[![MariaDB](https://img.shields.io/badge/MariaDB-blue?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=101010)]()
-[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-white?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=101010)]()
+![Sqlite](https://img.shields.io/badge/Sqlite-044a64?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-C0765A?style=for-the-badge&logo=mariadb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-0078d4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white)
+</br>
+![Angular](https://img.shields.io/badge/Angular-d32f2f?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/react-087EA4?style=for-the-badge&logo=react&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-black?style=for-the-badge&logo=astro&logoColor=white)
 </br>
 and some more...
