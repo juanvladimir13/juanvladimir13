@@ -5,7 +5,7 @@
 <p align="center">
    I am a <strong>Full Stack Developer</strong><br>
    💻 Freelance ♥️ PHP & TS 🤓 Geek & Hacker<br>
-   😈 Passionate about <strong>teaching programming</strong>
+   😎 Passionate about <strong>teaching programming</strong>
 </p>
 
 ## About me
