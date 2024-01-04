@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-   I am a <strong>Full Stack Developer</strong><br>
+   I am a <strong>Web Developer Full Stack</strong><br>
    💻 Freelance ♥️ PHP & TS 🤓 Geek & Hacker<br>
    😎 Passionate about <strong>teaching programming</strong>
 </p>
