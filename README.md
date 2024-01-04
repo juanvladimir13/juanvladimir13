@@ -2,14 +2,15 @@
    <h3 align="center">¡Hey 👋! I am Juan Vladimir 👨🏻‍💻</h3>
 </p>
 
-<p align="center">💻 Freelance ♥️ PHP & TS 👾 Geek & Hacker <br>
-  🤓 Passionate about teaching programming <br>
-I am a <strong>Full Stack Developer</strong> with 13 years of experience.</p>
+<p align="center">💻 Freelance ♥️ PHP & TS 🤓 Geek & Hacker<br>
+😈Passionate about teaching programming <br>
+I am a <strong>Full Stack Developer</strong> with 13 years of experience.
+</p>
 
 ## About me
 
-- 🎓 Software engineer
-- 👨🏻‍💻 **Full Stack Software Engineer**. Passionate about TypeScript, Angular, Next, PHP, Java and Python
+- 🎓 **Software engineer**
+- 👨🏻‍💻 **Web developer** with PHP, TypeScript, Angular, Next.js, Java, Python, Rust and Go
 - 👨🏻‍🏫 **Associate Professor** at *UAGRM*.
 - 🎬 [**EduTuber** about Web Programming](https://youtube.com/juanvladimir13?sub_confirmation=1)
 
