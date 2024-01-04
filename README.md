@@ -3,18 +3,18 @@
 </p>
 
 <p align="center">
-   I am <strong>Web developer full-stack</strong><br>
+   I am <strong>Developer Full-Stack</strong><br>
    💻 Freelance ♥️ PHP & TS 🤓 Geek & Hacker<br>
    😎 Passionate about <strong>teaching programming</strong>
 </p>
 
 ## About me
 
-- 🎓 **Software engineer**
+- 🎓 **Software Engineer**
 - ♥️ **I programmed happily** with PHP, TypeScript, Java, Python, Rust, Go, Angular, React, Next.js and Astro
-- 👨🏻‍💻 **Web developer full-stack**
-- 🐧 **Linux user**
-- 👨🏻‍🏫 **Associate professor** at UAGRM
+- 👨🏻‍💻 **Developer Full-Stack**
+- 🐧 **Linux User**
+- 👨🏻‍🏫 **Associate Professor** at UAGRM
 - 🎬 **EduTuber** about web programming ([channel](https://youtube.com/juanvladimir13))
 - 🎸 **I love singing and playing guitar**
 - 🧳 **I love to travel**
