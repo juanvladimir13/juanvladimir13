@@ -11,10 +11,11 @@
 ## About me
 
 - 🎓 **Software engineer**
-- 👨🏻‍💻 **Web developer** with PHP, Java, Python, Rust, Go, TypeScript, Angular, React, Next.js and Astro
+- ♥️ I programmed happily with PHP, Java, Python, Rust, Go, TypeScript, Angular, React, Next.js and Astro
+- 👨🏻‍💻 **Web developer Full Stack**
 - 🐧 **Linux user**
-- 👨🏻‍🏫 **Associate Professor** at *UAGRM*.
-- 🎬 [**EduTuber** about Web Programming](https://youtube.com/juanvladimir13?sub_confirmation=1)
+- 👨🏻‍🏫 **Associate Professor** at UAGRM
+- 🎬 **EduTuber** about Web Programming in https://youtube.com/juanvladimir13
 - 🎸 **I love singing and playing guitar**
 - 🧳 **I love to travel**
 
