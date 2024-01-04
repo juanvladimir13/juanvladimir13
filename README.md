@@ -1,5 +1,4 @@
 <p align="center" width="300">
-   <img align="center" width="150" src="https://juanvladimir13.web.app/img/juanvladimir13.jpg" />
    <h3 align="center">¡Hey 👋! I am Juan Vladimir 👨🏻‍💻</h3>
 </p>
 
