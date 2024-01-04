@@ -2,9 +2,10 @@
    <h3 align="center">¡Hey 👋! I am Juan Vladimir 👨🏻‍💻</h3>
 </p>
 
-<p align="center">💻 Freelance ♥️ PHP & TS 🤓 Geek & Hacker<br>
-😈Passionate about teaching programming <br>
-I am a <strong>Full Stack Developer</strong> with 13 years of experience.
+<p align="center">
+   I am a <strong>Full Stack Developer</strong><br>
+   💻 Freelance ♥️ PHP & TS 🤓 Geek & Hacker<br>
+   😈 Passionate about <strong>teaching programming</strong>
 </p>
 
 ## About me
