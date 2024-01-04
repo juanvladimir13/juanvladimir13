@@ -15,7 +15,7 @@
 - 👨🏻‍💻 **Web developer Full Stack**
 - 🐧 **Linux user**
 - 👨🏻‍🏫 **Associate Professor** at UAGRM
-- 🎬 **EduTuber** about Web Programming in https://youtube.com/juanvladimir13
+- 🎬 **EduTuber** about Web Programming ([channel](https://youtube.com/juanvladimir13))
 - 🎸 **I love singing and playing guitar**
 - 🧳 **I love to travel**
 
