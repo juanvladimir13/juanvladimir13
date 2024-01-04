@@ -1,16 +1,25 @@
-### Hi there 👋
+<p align="center" width="300">
+   <img align="center" width="150" src="https://juanvladimir13.web.app/img/juanvladimir13.jpg" />
+   <h3 align="center">¡Hey 👋! I am Juan Vladimir 👨🏻‍💻</h3>
+</p>
 
-<!--
-**juanvladimir13/juanvladimir13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">I am a <strong>FullStack Developer</strong> with 13 years of experience.</p>
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Software engineer
+- 👨🏻‍💻 **Full Stack Software Engineer**. Passionate about JavaScript, TypeScript, Angular, Next, PHP, Java, Pascal/Delphi, C++, C# and Python
+- 👨🏻‍🏫 **Associate Professor** at *UAGRM*.
+- 🎬 [**EduTuber** about Web Programming](https://youtube.com/juanvladimir13?sub_confirmation=1)
+
+## Technologies
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+</br>
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+</br>
+Y alguna más...
