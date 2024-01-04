@@ -12,8 +12,11 @@
 
 - 🎓 **Software engineer**
 - 👨🏻‍💻 **Web developer** with PHP, TypeScript, Angular, Next.js, Java, Python, Rust and Go
+- 🐧 **Linux user**
 - 👨🏻‍🏫 **Associate Professor** at *UAGRM*.
 - 🎬 [**EduTuber** about Web Programming](https://youtube.com/juanvladimir13?sub_confirmation=1)
+- 🎸 **I love singing and playing guitar**
+- 🧳 **I love to travel**
 
 ## Technologies
 
