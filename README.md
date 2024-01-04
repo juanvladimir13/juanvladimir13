@@ -40,4 +40,4 @@
 ![React](https://img.shields.io/badge/react-087EA4?style=for-the-badge&logo=react&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-black?style=for-the-badge&logo=astro&logoColor=white)
 </br>
-and some more...
+*and some more...*
